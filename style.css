@@ -1,0 +1,22 @@
+header {
+  background-color: blue color(white);
+}
+p {
+  color: blue;
+}
+h2 {
+  color: purple;
+}
+h3 {
+  color: green;
+  font-weight: bold;
+}
+a {
+  color: red;
+}
+button {
+  background-color: yellow;
+}
+ul {
+  background-color: rgba(128, 128, 128, 0.308);
+}
